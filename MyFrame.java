@@ -17,6 +17,7 @@ class MyFrame extends JFrame {
     MyFrame() {
         super("zxcShadowFiend");
 
+        
 
         setLayout(new BorderLayout());
 
